@@ -45,7 +45,7 @@ Run index.html in your browser
 
 🌐 Live Demo
 
-👉 Live Demo
+👉 [Live Demo](https://subtainkhanp.github.io/Smooth-Scrolling-GSAP-Animation-Website-Works-Studio-Replica-/)
 
 📸 Screenshots
 
