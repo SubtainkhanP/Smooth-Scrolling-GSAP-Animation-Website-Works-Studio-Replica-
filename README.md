@@ -50,7 +50,7 @@ Run index.html in your browser
 📸 Screenshots
 
 <img width="1920" height="841" alt="image" src="https://github.com/user-attachments/assets/40b18c9e-8c9d-4199-9588-816e9e95a7a9" />
-![Uploading image.png…]()
+
 
 
 👨‍💻 Author
